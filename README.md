@@ -1,5 +1,4 @@
 # VirtualBox (Active Directory Lab) - Prerequisites and Installation
-![image](https://github.com/user-attachments/assets/d341aa27-38e2-4010-a238-9fbbd122516b)
 
 
 This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<br />
